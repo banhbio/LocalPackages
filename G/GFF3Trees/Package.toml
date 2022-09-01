@@ -1,0 +1,3 @@
+name = "GFF3Trees"
+uuid = "691e8c85-6b6e-4051-8c7e-8df901820a12"
+repo = "https://github.com/banhbio/GFF3Trees.jl"

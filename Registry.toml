@@ -4,3 +4,4 @@ repo = "https://github.com/banhbio/LocalPackages.git"
 description = "Julia Registry of banhbio"
 
 [packages]
+691e8c85-6b6e-4051-8c7e-8df901820a12 = { name = "GFF3Trees", path = "G/GFF3Trees" }
