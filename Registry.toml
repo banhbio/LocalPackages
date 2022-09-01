@@ -1,0 +1,6 @@
+name = "LocalPackages"
+uuid = "8811483f-4b44-401a-9335-0b3c0b0b7028"
+repo = "https://github.com/banhbio/LocalPackages.git"
+description = "Julia Registry of banhbio"
+
+[packages]
